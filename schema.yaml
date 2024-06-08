@@ -1,1 +1,13 @@
-key: val
+COLUMNS:
+  Weekly_Sales: float64
+  Holiday_Flag: int64  
+  Temperature: float64
+  Fuel_Price: float64
+  CPI: float64
+  Unemployment: float64
+
+
+TARGET_COLUMN:
+  name: Unemployment
+  
+
