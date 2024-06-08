@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/100devMl/Projects/WalmartSalesPrediction/mlruns/0/938624c5e0f24a5c99401e657042fd53/artifacts
+end_time: 1717854256482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 938624c5e0f24a5c99401e657042fd53
+run_name: incongruous-duck-259
+run_uuid: 938624c5e0f24a5c99401e657042fd53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717854237076
+status: 3
+tags: []
+user_id: Prathik
